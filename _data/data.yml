@@ -83,13 +83,13 @@ experiences:
     title: Experiences
     info:
       - role: Junior DevOps engineer
-        time: 2022 - Present
-        company: RSYNTECH - Qazvin
+        time: 2021 - Present
+        company: SRC Accelerator - Startup Studio - Qazvin
         details: |
           DevOps engineer
       - role: Junior Backend Developer
         time: 2022 - Present
-        company: RSYNTECH - Qazvin
+        company: SRC Accelerator - Startup Studio - Qazvin
         details: |
           .Net Backend Developer
 projects:
