@@ -94,10 +94,6 @@ experiences:
           .Net Backend Developer
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Senco Monitor
         link: "https://sencomonitor.ir"
